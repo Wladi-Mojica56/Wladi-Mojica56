@@ -1,8 +1,8 @@
-# 💫 About Me:
-¡Hola! mi nombre es Wladimyr Mojica, conocido en el mundo del código como WladCode,<br>un Desarrollador Frontend apasionado por crear interfaces web<br>que fusionan funcionalidad, estética y experiencias de usuario memorables. <br>Mi enfoque combina creatividad, tecnología y un uso estratégico de IA<br>para optimizar flujos de trabajo, mejorar la calidad del código <br>y garantizar aplicaciones robustas.
+# 💫 Sobre Mi!:
+¡Hola! mi nombre es Wladimyr Mojica, conocido en el mundo del código como WladCode,<br>Un Desarrollador Frontend apasionado por crear interfaces web<br>Que fusionan funcionalidad, estética y experiencias de usuario memorables. <br>Mi enfoque combina creatividad, tecnología y un uso estratégico de IA<br>Para optimizar flujos de trabajo, mejorar la calidad del código <br>Y garantizar aplicaciones robustas.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wladi_mojica) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wladimyr.mojica@gmail.com) 
 
 # 💻 Tech Stack:
